@@ -1,0 +1,37 @@
+.body{
+    font-family: Roboto, 'Segoe UI', Tahoma, sans-serif;
+}
+.logo-size{
+    width: 300px;
+}
+.name-highlight{
+    color:#f57c00;
+    font-size: 80px;
+}
+.infinity{
+    color: #064c81;
+    font-size: 60px;
+}
+.casual-shoes{
+    background-color:rgb(217, 218, 219);
+    border-radius: 20px;
+    width: 90%;
+    height: 60%;
+}
+.casual-card{
+    border: none;
+}
+.formal-card{
+    border: none;
+}
+.footer-card-style{
+    border: none;
+    background-color: white;
+}
+.icon-size{
+    height: 80px;
+    width: 80px;
+}
+.first-part-highlight{
+    background-color: #fff5f5;
+}
